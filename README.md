@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [About](#about)
+  - [Prerequisites](#prerequisites)
+  - [Repo structure](#repo-structure)
+    - [Lessons (in the README file)](#lessons-in-the-readme-file)
+      - [Problem categories](#problem-categories)
+    - [Material](#material)
+    - [Solutions](#solutions)
+- [Lessons](#lessons)
+  - [1. Number Theory - Factorization and Sieve of Eratosthenes](#1-number-theory---factorization-and-sieve-of-eratosthenes)
+    - [Resources](#resources)
+    - [Problems](#problems)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # About
 ## Prerequisites
 The basics covered in this training:  
