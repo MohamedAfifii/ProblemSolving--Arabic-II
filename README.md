@@ -51,26 +51,29 @@ It is **highly recommended** that you read through the solutions even if you sol
 
 ### Resources
 Read these two short PDFs:
-- https://codility.com/media/train/8-PrimeNumbers.pdf
-- https://codility.com/media/train/9-Sieve.pdf
+- [x]https://codility.com/media/train/8-PrimeNumbers.pdf
+- [ ]https://codility.com/media/train/9-Sieve.pdf
 
 Watch these two videos by Mustafa Saad:
-- https://www.youtube.com/watch?v=VZBfW08ECgA
-- https://www.youtube.com/watch?v=-5ApOQDhBtU
+- [ ]https://www.youtube.com/watch?v=VZBfW08ECgA
+- [ ]https://www.youtube.com/watch?v=-5ApOQDhBtU
 
 Watch this video that highlights important points that were not highlighted by the resources above:  
-[link]
+- [ ]link
 
 ### Problems
 As this is an extremely important topic that frequently appears on programming contests, please solve all the following problems:
-- [a2oj contest]
-- A2OJ doesn't support Codility. Solve the first 3 problems in A2OJ's contest above, then solve these following problems on Codility before continuing
-    - https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/ (very easy)
-    - https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/ (very easy)
-    - https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/
-    - https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/
+- [ ]Codility - [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+- [ ]Codility - [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+- [ ]SPOJ - [Prime Count](http://www.spoj.com/problems/PCOUNT/)
+- [ ]SPOJ - [Almost Prime Numbers](http://www.spoj.com/problems/KPRIMES/)
+- [ ]Codeforces - [Sherlock and his girlfriend](http://codeforces.com/problemset/problem/776/B)
+- [ ]Codility - [CountSemiprimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
+- [ ]Codility - [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
+- [ ]Codeforces - [Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)
+- [ ]Codeforces - [Bear and Prime Numbers](http://codeforces.com/problemset/problem/385/C)
 
 **Extra**  
 If the above problems were easy for you and you want to go fancier, read this [link](https://www.geeksforgeeks.org/segmented-sieve/) about Segment Sieve, then give the following problems a try:
-1. [SPOJ PRIME1](https://www.spoj.com/problems/PRIME1/)
-2. [UVA 294](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230)
+- [ ][SPOJ PRIME1](https://www.spoj.com/problems/PRIME1/)
+- [ ][UVA 294](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230)
