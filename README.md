@@ -59,7 +59,7 @@ Watch these two videos by Mustafa Saad:
 - [ ] https://www.youtube.com/watch?v=-5ApOQDhBtU
 
 Watch this video that highlights important points that were not highlighted by the resources above:  
-- [ ] link
+- [ ] https://youtu.be/xUk2SggGDRc
 
 ### Problems
 As this is an extremely important topic that frequently appears on programming contests, please solve all the following problems:
