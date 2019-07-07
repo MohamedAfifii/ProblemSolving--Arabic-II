@@ -19,7 +19,7 @@
 # About
 ## Prerequisites
 The basics covered in this training:  
-https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk
+https://github.com/MohamedAfifii/ProblemSolving--Arabic
 
 ## Repo structure
 ### Lessons (in the README file)
