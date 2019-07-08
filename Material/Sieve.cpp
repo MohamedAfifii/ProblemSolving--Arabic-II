@@ -58,4 +58,9 @@ int main()
     for(int i = 1; i <= n; i++)
     {
         cout << i << ": ";
-        for(auto p: primeFactorizati
+        for(auto p: primeFactorization[i])  cout << "{" << p.first << ", " << p.second << "}, ";
+        cout << endl;
+    }
+
+    return 0;
+}

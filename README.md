@@ -61,6 +61,25 @@ Watch these two videos by Mustafa Saad:
 Watch this video that highlights important points that were not highlighted by the resources above:  
 - [ ] https://youtu.be/xUk2SggGDRc
 
+### Notes
+The code in the last video can be easily modified to generate all the divisors (not only the prime divisors) for all numbers from 1 to N.
+```CPP
+int n = 10;
+vector<vector<int>> divisors(n+1);
+
+//i starts from 1
+//All numbers (not only prime numbers) will visit their multiples
+for(int i = 1; i <= n; i++)    
+{
+    for(int j = i; j <= n; j += i)
+    {
+        divisors[j].push_back(i);
+    }
+}
+```
+The complexity of this algorithm is `O(NlogN)` (assuming that `push_back` is `O(1)` for simplicity). The proof is similar to the proof mentioned in [Codility's PDF](https://codility.com/media/train/9-Sieve.pdf), except that the summation is now over all numbers from 1 to N. See this interesting [derivation](https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series) if you want to know why the upper bound for the summation is indeed `O(logN)` (**feel free to skip the proof**).
+
+
 ### Problems
 As this is an extremely important topic that frequently appears on programming contests, please solve all the following problems:
 - [ ] Codility - [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
