@@ -47,7 +47,7 @@ This directory contains **documented solutions** for the training problems. If t
 It is **highly recommended** that you read through the solutions even if you solve the problem, as you may find useful tricks there!
 
 # Lessons
-## 1. Number Theory - Factorization and Sieve of Eratosthenes
+## 1. Number Theory: Factorization and Sieve of Eratosthenes
 
 ### Resources
 Read these two short PDFs:
@@ -96,3 +96,31 @@ As this is an extremely important topic that frequently appears on programming c
 If the above problems were easy for you and you want to go fancier, read this [link](https://www.geeksforgeeks.org/segmented-sieve/) about Segment Sieve, then give the following problems a try:
 - [ ] [SPOJ PRIME1](https://www.spoj.com/problems/PRIME1/)
 - [ ] [UVA 294](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230)
+
+## 2. Number Theory: GCD, LCM, Extended Euclidean Algorithm
+### Resources
+- [ ] https://codility.com/media/train/10-Gcd.pdf  
+Skip section 12.3
+- [ ] https://www.youtube.com/watch?v=YklnFXpq0ZE  
+Skip the parts of the video that are not related to GCD, LCM (they will be covered later).
+- [ ] https://www.youtube.com/watch?v=2k0TPnZyobY
+
+### Problems
+#### GCD, LCM Problems
+- [ ] Hackerrank - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/problem)
+- [ ] Codeforces - [Modified GCD](https://codeforces.com/problemset/problem/75/C)
+- [ ] Codility - [Chocolates by Numbers](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
+- [ ] Codeforces - [LCM](https://codeforces.com/problemset/problem/1068/B)
+- [ ] Codeforces - [Alarm Clocks Everywhere](https://codeforces.com/contest/1155/problem/C)
+- [ ] Codeforces - [Alice and Bob](https://codeforces.com/problemset/problem/347/C)
+
+#### Extended Euclid Problems
+Note that problems that involve using the Extended Euclidean Algorithm are usually hard problems, so don't get disappointed if you struggle with them. I will try to provide easy to read solutions so that you can understand the solution if you get stuck!
+- [ ] [UVA 10104 - Euclid Problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1045)
+- [ ] [UVA 10090 - Marbles](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1031)
+- [ ] [UVA 10673 - Play with Floor and Ceil](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1614)
+
+#### Extra
+- [ ] [Codeforces - Neko does Math](https://codeforces.com/problemset/problem/1152/C)
+- [ ] [Codeforces - The Beatles](https://codeforces.com/contest/1143/problem/D)  
+This problem is a harder version of Codility's [Chocolates by Numbers](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/).
