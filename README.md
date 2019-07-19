@@ -10,9 +10,16 @@
     - [Material](#material)
     - [Solutions](#solutions)
 - [Lessons](#lessons)
-  - [1. Number Theory - Factorization and Sieve of Eratosthenes](#1-number-theory---factorization-and-sieve-of-eratosthenes)
+  - [1. Number Theory: Factorization and Sieve of Eratosthenes](#1-number-theory-factorization-and-sieve-of-eratosthenes)
     - [Resources](#resources)
+    - [Notes](#notes)
     - [Problems](#problems)
+  - [2. Number Theory: GCD, LCM, Extended Euclidean Algorithm](#2-number-theory-gcd-lcm-extended-euclidean-algorithm)
+    - [Resources](#resources-1)
+    - [Problems](#problems-1)
+      - [GCD, LCM Problems](#gcd-lcm-problems)
+      - [Extended Euclid Problems](#extended-euclid-problems)
+      - [Extra](#extra)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -117,8 +124,8 @@ Skip the parts of the video that are not related to GCD, LCM (they will be cover
 #### Extended Euclid Problems
 Note that problems that involve using the Extended Euclidean Algorithm are usually hard problems, so don't get disappointed if you struggle with them. I will try to provide easy to read solutions so that you can understand the solution if you get stuck!
 - [ ] [UVA 10104 - Euclid Problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1045)
-- [ ] [UVA 10090 - Marbles](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1031)
 - [ ] [UVA 10673 - Play with Floor and Ceil](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1614)
+- [ ] [UVA 10090 - Marbles](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1031)
 
 #### Extra
 - [ ] [Codeforces - Neko does Math](https://codeforces.com/problemset/problem/1152/C)
