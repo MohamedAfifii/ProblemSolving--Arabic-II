@@ -20,6 +20,14 @@
       - [GCD, LCM Problems](#gcd-lcm-problems)
       - [Extended Euclid Problems](#extended-euclid-problems)
       - [Extra](#extra)
+  - [3. Trees: Minimum Spanning Trees](#3-trees-minimum-spanning-trees)
+    - [Refresh: DSU](#refresh-dsu)
+    - [Resources](#resources-2)
+    - [Problems](#problems-2)
+  - [4. Trees: Tree Center and Diameter](#4-trees-tree-center-and-diameter)
+    - [Refresh: DFS, BFS](#refresh-dfs-bfs)
+    - [Resources](#resources-3)
+    - [Problems](#problems-3)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -135,10 +143,11 @@ This problem is a harder version of Codility's [Chocolates by Numbers](https://a
 
 ## 3. Trees: Minimum Spanning Trees
 ### Refresh: DSU
-- [ ] https://www.youtube.com/watch?v=-jWBvgMw44U
-- [ ] https://codeforces.com/contest/884/problem/C
+- [ ] [DSU (Arabic)](https://www.youtube.com/watch?v=-jWBvgMw44U)
+- [ ] [Codeforces - 884C](https://codeforces.com/contest/884/problem/C)
 
 ### Resources
+Watch these two videos by Mustafa Saad:
 - [ ] https://www.youtube.com/watch?v=tcQky6O1em8
 - [ ] https://www.youtube.com/watch?v=HQ5ANfzSDn0
 
@@ -150,13 +159,15 @@ This problem is a harder version of Codility's [Chocolates by Numbers](https://a
 
 ## 4. Trees: Tree Center and Diameter
 ### Refresh: DFS, BFS
+- [ ] [Graph Theory - DFS (Arabic)](https://www.youtube.com/watch?v=9DP0X2xlPCo)
+- [ ] [Graph Theory - BFS (Arabic)](https://www.youtube.com/watch?v=COB1GHq0YwY)
 - [ ] [SPOJ - BUGLIFE (Graph coloring, Testing bipartiteness)](https://www.spoj.com/problems/BUGLIFE/)      
 - [ ] [UVA 852 - Deciding victory in Go (DFS on grid)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=793)
 - [ ] [Codeforces - 558C (BFS on implicit graph)](https://codeforces.com/contest/558/problem/C)
 - [ ] [Codeforces - 767C (DFS, imporant!)](https://codeforces.com/contest/767/problem/C)
 
 ### Resources
-- [ ] https://www.youtube.com/watch?v=RASvnfG2SSE
+- [ ] [Graph Theory - Tree Diameter and Isomorphism (Arabic)](https://www.youtube.com/watch?v=RASvnfG2SSE)
 
 ### Problems
 - [ ] [SPOJ PT07Z](https://www.spoj.com/problems/PT07Z/)
