@@ -131,3 +131,34 @@ Note that problems that involve using the Extended Euclidean Algorithm are usual
 - [ ] [Codeforces - Neko does Math](https://codeforces.com/problemset/problem/1152/C)
 - [ ] [Codeforces - The Beatles](https://codeforces.com/contest/1143/problem/D)  
 This problem is a harder version of Codility's [Chocolates by Numbers](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/).
+
+
+## 3. Trees: Minimum Spanning Trees
+### Refresh: DSU
+- [ ] https://www.youtube.com/watch?v=-jWBvgMw44U
+- [ ] https://codeforces.com/contest/884/problem/C
+
+### Resources
+- [ ] https://www.youtube.com/watch?v=tcQky6O1em8
+- [ ] https://www.youtube.com/watch?v=HQ5ANfzSDn0
+
+### Problems
+- [ ] [SPOJ MST](https://www.spoj.com/problems/MST/)
+- [ ] [UVA 10147 - Highways](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1088)
+- [ ] [10369 - Arctic Network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310)
+- [ ] [ECPC2017 - Dream Team (Hard)](https://codeforces.com/gym/101840)
+
+## 4. Trees: Tree Center and Diameter
+### Refresh: DFS, BFS
+- [ ] [SPOJ - BUGLIFE (Graph coloring, Testing bipartiteness)](https://www.spoj.com/problems/BUGLIFE/)      
+- [ ] [UVA 852 - Deciding victory in Go (DFS on grid)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=793)
+- [ ] [Codeforces - 558C (BFS on implicit graph)](https://codeforces.com/contest/558/problem/C)
+- [ ] [Codeforces - 767C (DFS, imporant!)](https://codeforces.com/contest/767/problem/C)
+
+### Resources
+- [ ] https://www.youtube.com/watch?v=RASvnfG2SSE
+
+### Problems
+- [ ] [SPOJ PT07Z](https://www.spoj.com/problems/PT07Z/)
+- [ ] [SPOJ TREEISO](https://www.spoj.com/problems/TREEISO/)
+- [ ] [Codeforces - 1068E (Not hard)](https://codeforces.com/contest/1068/problem/E)
