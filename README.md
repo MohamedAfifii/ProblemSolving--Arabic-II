@@ -154,7 +154,7 @@ Watch these two videos by Mustafa Saad:
 ### Problems
 - [ ] [SPOJ MST](https://www.spoj.com/problems/MST/)
 - [ ] [UVA 10147 - Highways](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1088)
-- [ ] [10369 - Arctic Network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310)
+- [ ] [UVA 10369 - Arctic Network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310)
 - [ ] [ECPC2017 - Dream Team (Hard)](https://codeforces.com/gym/101840)
 
 ## 4. Trees: Tree Center and Diameter
