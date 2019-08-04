@@ -28,6 +28,9 @@
     - [Refresh: DFS, BFS](#refresh-dfs-bfs)
     - [Resources](#resources-3)
     - [Problems](#problems-3)
+  - [5. DP - Warm up](#5-dp---warm-up)
+    - [Resources](#resources-4)
+    - [Problems](#problems-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
