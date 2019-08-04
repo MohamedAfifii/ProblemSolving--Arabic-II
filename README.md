@@ -173,3 +173,26 @@ Watch these two videos by Mustafa Saad:
 - [ ] [SPOJ PT07Z](https://www.spoj.com/problems/PT07Z/)
 - [ ] [SPOJ TREEISO](https://www.spoj.com/problems/TREEISO/)
 - [ ] [Codeforces - 1068E (Not hard)](https://codeforces.com/contest/1068/problem/E)
+
+
+## 5. DP - Warm up
+### Resources
+- [ ] https://www.youtube.com/watch?v=TNgPT91sn90&t=121s (Introduction + how to print the optimal solution)  
+
+Read this lesson from Codility
+- [ ] https://codility.com/media/train/15-DynamicProgramming.pdf
+
+Watch these 3 videos by Mustafa Saad
+- [ ] https://www.youtube.com/watch?v=gFdP6X4CyKU
+- [ ] https://www.youtube.com/watch?v=gFdP6X4CyKU
+- [ ] https://www.youtube.com/watch?v=vAqaki1BhS0
+
+
+### Problems
+- [ ] [Codeforces - 35D](https://codeforces.com/problemset/problem/35/D)    (Knapsack-like)
+- [ ] [Codeforces - 189A](https://codeforces.com/problemset/problem/189/A)   (Reduced version of the Coin Change problem)
+- [ ] [ECPC2016 H](https://codeforces.com/gym/101147/problem/H)
+- [ ] [Codeforces - 761C](https://codeforces.com/problemset/problem/761/C)
+- [ ] [SPOJ ELIS](https://www.spoj.com/problems/ELIS/)  (LIS, no need to memoize)
+- [ ] [SPOJ TLCS](https://www.spoj.com/problems/TLCS/)  (LCS  + printing output)
+- [ ] [Codeforces - 2B](https://codeforces.com/problemset/problem/2/B) (Printing output, good one)
