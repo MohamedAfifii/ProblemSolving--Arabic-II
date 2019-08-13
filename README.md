@@ -31,6 +31,9 @@
   - [5. DP - Warm up](#5-dp---warm-up)
     - [Resources](#resources-4)
     - [Problems](#problems-4)
+  - [6. DP - Table methods and patterns](#6-dp---table-methods-and-patterns)
+    - [Resources](#resources-5)
+    - [Problems](#problems-5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -199,3 +202,24 @@ Watch these 3 videos by Mustafa Saad
 - [ ] [SPOJ ELIS](https://www.spoj.com/problems/ELIS/)  (LIS, no need to memoize)
 - [ ] [SPOJ TLCS](https://www.spoj.com/problems/TLCS/)  (LCS  + printing output)
 - [ ] [Codeforces - 2B](https://codeforces.com/problemset/problem/2/B) (Printing output, good one)
+
+## 6. DP - Table methods and patterns
+### Resources
+- [ ] Mustaf Saad's video for table method  
+https://www.youtube.com/watch?v=PrXbn8-zw14
+- [ ] Another video explaining table method (and some other stuff) in a better way  
+https://www.youtube.com/watch?v=34Drti_iMsg
+- DP patterns
+    - [ ] [Consecutive ranges](https://www.youtube.com/watch?v=bDlAqeWsKsg)
+    - [ ] [Nested ranges](https://www.youtube.com/watch?v=b4AC2jGNGEM)
+    - [ ] [General ranges](https://www.youtube.com/watch?v=pJbeTrSKl3Y)
+
+### Problems
+- [ ] [ICPC archive - 2675](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=676)
+- [ ] [UVA 10003](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=944)
+- [ ] [UVA 348](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284)
+- [ ] [UVA 10739](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1680)
+- [ ] [Codeforces 245H](https://codeforces.com/problemset/problem/245/H)
+- [ ] [Codeforces 835D](https://codeforces.com/problemset/problem/835/D)
+- [ ] [IEEExtreme11 - Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/)
+- [ ] [Codeforces 1107E](https://codeforces.com/problemset/problem/1107/E)
