@@ -28,12 +28,19 @@
     - [Refresh: DFS, BFS](#refresh-dfs-bfs)
     - [Resources](#resources-3)
     - [Problems](#problems-3)
-  - [5. DP - Warm up](#5-dp---warm-up)
+  - [5. DP - Warm Up](#5-dp---warm-up)
     - [Resources](#resources-4)
     - [Problems](#problems-4)
-  - [6. DP - Table methods and patterns](#6-dp---table-methods-and-patterns)
+  - [6. DP - Table Method and Patterns](#6-dp---table-method-and-patterns)
     - [Resources](#resources-5)
     - [Problems](#problems-5)
+  - [7. DP - Tricks and Masks](#7-dp---tricks-and-masks)
+    - [Resources](#resources-6)
+    - [Problems](#problems-6)
+    - [Subarrays](#subarrays)
+    - [State Graphs](#state-graphs)
+    - [Consider One Element](#consider-one-element)
+    - [Masks](#masks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
