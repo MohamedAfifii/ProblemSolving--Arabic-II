@@ -181,7 +181,7 @@ Watch these two videos by Mustafa Saad:
 - [ ] [Codeforces - 1068E (Not hard)](https://codeforces.com/contest/1068/problem/E)
 
 
-## 5. DP - Warm up
+## 5. DP - Warm Up
 ### Resources
 - [ ] https://www.youtube.com/watch?v=TNgPT91sn90&t=121s (Introduction + how to print the optimal solution)  
 
@@ -203,7 +203,7 @@ Watch these 3 videos by Mustafa Saad
 - [ ] [SPOJ TLCS](https://www.spoj.com/problems/TLCS/)  (LCS  + printing output)
 - [ ] [Codeforces - 2B](https://codeforces.com/problemset/problem/2/B) (Printing output, good one)
 
-## 6. DP - Table methods and patterns
+## 6. DP - Table Method and Patterns
 ### Resources
 - [ ] Mustaf Saad's video for table method  
 https://www.youtube.com/watch?v=PrXbn8-zw14
@@ -223,3 +223,32 @@ https://www.youtube.com/watch?v=34Drti_iMsg
 - [ ] [Codeforces 835D](https://codeforces.com/problemset/problem/835/D)
 - [ ] [IEEExtreme11 - Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/)
 - [ ] [Codeforces 1107E](https://codeforces.com/problemset/problem/1107/E)
+
+## 7. DP - Tricks and Masks
+### Resources
+- [ ] [DP Tricks - Subarrays (Arabic)](https://youtu.be/XKAv9BrTQYk)
+- [ ] [DP Tricks - State Graphs (Arabic)](https://youtu.be/baz0hOmrbe0)
+- [ ] [DP Tricks - Consider One Element (Arabic)](https://youtu.be/8Uv3FvJ8rCQ)
+- [ ] [Dynamic Programming - Masks - 1 (Arabic)](https://www.youtube.com/watch?v=8aATaY9sdeE)
+- [ ] [Dynamic Programming - Masks - 2 (Arabic)](https://www.youtube.com/watch?v=AIjk-KVgjQo)
+
+### Problems
+### Subarrays
+- [ ] [Codility MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+- [ ] [Codility MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+- [ ] [Codeforces 1155D](https://codeforces.com/contest/1155/problem/D)
+- [ ] [Codeforces 841C](https://codeforces.com/problemset/problem/814/C)
+
+### State Graphs
+- [ ] [SPOJ DBALLZ](https://www.spoj.com/problems/DBALLZ/)
+- [ ] [UVA 562](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=114&page=show_problem&problem=503)
+- [ ] [Codeforces 837D](https://codeforces.com/problemset/problem/837/D)
+- [ ] [Codility MinAbsSum](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/) (Hard, see the [solution](https://codility.com/media/train/solution-min-abs-sum.pdf) if you get stuck)
+
+
+### Consider One Element
+- [ ] [Codeforces 1132F](https://codeforces.com/contest/1132/problem/F)
+
+### Masks
+- [ ] [UVA 10911](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
+- [ ] [IEEExtreme11 - Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef/)
