@@ -37,10 +37,10 @@
   - [7. DP - Tricks and Masks](#7-dp---tricks-and-masks)
     - [Resources](#resources-6)
     - [Problems](#problems-6)
-    - [Subarrays](#subarrays)
-    - [State Graphs](#state-graphs)
-    - [Consider One Element](#consider-one-element)
-    - [Masks](#masks)
+      - [Subarrays](#subarrays)
+      - [State Graphs](#state-graphs)
+      - [Consider One Element](#consider-one-element)
+      - [Masks](#masks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -240,22 +240,22 @@ https://www.youtube.com/watch?v=34Drti_iMsg
 - [ ] [Dynamic Programming - Masks - 2 (Arabic)](https://www.youtube.com/watch?v=AIjk-KVgjQo)
 
 ### Problems
-### Subarrays
+#### Subarrays
 - [ ] [Codility MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
 - [ ] [Codility MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 - [ ] [Codeforces 1155D](https://codeforces.com/contest/1155/problem/D)
 - [ ] [Codeforces 841C](https://codeforces.com/problemset/problem/814/C)
 
-### State Graphs
+#### State Graphs
 - [ ] [SPOJ DBALLZ](https://www.spoj.com/problems/DBALLZ/)
 - [ ] [UVA 562](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=114&page=show_problem&problem=503)
 - [ ] [Codeforces 837D](https://codeforces.com/problemset/problem/837/D)
 - [ ] [Codility MinAbsSum](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/) (Hard, see the [solution](https://codility.com/media/train/solution-min-abs-sum.pdf) if you get stuck)
 
 
-### Consider One Element
+#### Consider One Element
 - [ ] [Codeforces 1132F](https://codeforces.com/contest/1132/problem/F)
 
-### Masks
+#### Masks
 - [ ] [UVA 10911](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
 - [ ] [IEEExtreme11 - Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef/)
