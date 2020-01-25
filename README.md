@@ -41,6 +41,11 @@
       - [State Graphs](#state-graphs)
       - [Consider One Element](#consider-one-element)
       - [Masks](#masks)
+  - [8. Segment Tree](#8-segment-tree)
+    - [Resources](#resources-7)
+    - [Problems](#problems-7)
+      - [Without lazy propagation](#without-lazy-propagation)
+      - [Lazy Propagation](#lazy-propagation)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -259,3 +264,18 @@ https://www.youtube.com/watch?v=34Drti_iMsg
 #### Masks
 - [ ] [UVA 10911](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
 - [ ] [IEEExtreme11 - Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef/)
+
+## 8. Segment Tree
+### Resources
+- [ ] [SolverToBe - Segment tree](https://www.youtube.com/watch?v=7B9Fqtft4zM)
+- [ ] [SolverToBe - Segment tree 2 (lazy propagation)](https://www.youtube.com/watch?v=i2dsssX_nL0)
+
+### Problems
+#### Without lazy propagation
+- [ ] [Hackerearth range-minimum-query](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/)
+- [ ] [Codeforces 52C](https://codeforces.com/problemset/problem/52/C)
+- [ ] [Codeforces 339D](http://codeforces.com/problemset/problem/339/D)
+
+#### Lazy Propagation
+- [ ] [SPOJ - Horrible Queries](https://www.spoj.com/problems/HORRIBLE/)
+- [ ] [SPOJ - Light Switching](https://www.spoj.com/problems/LITE/)
