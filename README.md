@@ -46,6 +46,11 @@
     - [Problems](#problems-7)
       - [Without lazy propagation](#without-lazy-propagation)
       - [Lazy Propagation](#lazy-propagation)
+  - [9. Trees - Binary Lifting, K'th Ancestor, Lowest Common Ancestor](#9-trees---binary-lifting-kth-ancestor-lowest-common-ancestor)
+    - [Resources](#resources-8)
+    - [Problems](#problems-8)
+      - [Basic](#basic)
+      - [A little bit harder](#a-little-bit-harder)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -287,8 +292,10 @@ https://www.youtube.com/watch?v=34Drti_iMsg
 - [ ] https://www.youtube.com/watch?v=bM8dA7CH4Yo
 
 ### Problems
+#### Basic
 - [ ] https://www.spoj.com/problems/LCA/
 - [ ] https://www.spoj.com/problems/QTREE2/
+
+#### A little bit harder
 - [ ] https://codeforces.com/problemset/problem/832/D
-- [ ] https://codeforces.com/contest/1006/problem/E
-- [ ] https://codeforces.com/gym/100814/problem/C   (ECPC 2015, Very important)
+- [ ] https://www.hackerrank.com/challenges/kth-ancestor
