@@ -279,3 +279,16 @@ https://www.youtube.com/watch?v=34Drti_iMsg
 #### Lazy Propagation
 - [ ] [SPOJ - Horrible Queries](https://www.spoj.com/problems/HORRIBLE/)
 - [ ] [SPOJ - Light Switching](https://www.spoj.com/problems/LITE/)
+
+
+## 9. Trees - Binary Lifting, K'th Ancestor, Lowest Common Ancestor
+### Resources
+- [ ] https://www.youtube.com/watch?v=BjKuguyKBVg
+- [ ] https://www.youtube.com/watch?v=bM8dA7CH4Yo
+
+### Problems
+- [ ] https://www.spoj.com/problems/LCA/
+- [ ] https://www.spoj.com/problems/QTREE2/
+- [ ] https://codeforces.com/problemset/problem/832/D
+- [ ] https://codeforces.com/contest/1006/problem/E
+- [ ] https://codeforces.com/gym/100814/problem/C   (ECPC 2015, Very important)
